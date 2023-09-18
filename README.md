@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **CS50P**
 
-- 👯 👯 I’m actively seeking an engaging **Master Thesis, Werkstudent**
+- 👯 👯 I’m actively seeking an engaging **Master Thesis, Werkstudent Position**
 
 - 👨‍💻 All of my projects are available at [https://ameeranalyst.github.io/](https://ameeranalyst.github.io/)
 
