@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ameer Hamza</h1>
 <h3 align="center">A passionate Data Analyst.</h3>
-<img align="right" alt="Coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
+<img align="right" alt="Coding" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
 - 🔭 I’m currently working on **Porfolio Projects**
 
