@@ -8,7 +8,7 @@
 
 - 👯 👯 I’m actively seeking an engaging **Master Thesis, Werkstudent**
 
-- 👨‍💻 All of my projects are available at [https://ameeranalyst.github.io/cv/](https://ameeranalyst.github.io/cv/)
+- 👨‍💻 All of my projects are available at https://ameeranalyst.github.io/
 
 - 📫 How to reach me **ameerch22@gmail.com**
 
